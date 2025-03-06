@@ -1,5 +1,6 @@
-# Vidhyashalini-Venkatesh
-<h1 align="center">🚀 Hey there! I'm Vidhyashalini Venkatesh 👋</h1>  
+
+<h1 align="center">👩‍💻 Hey there! I'm Vidhyashalini Venkatesh 👋</h1>
+
 <p align="center">
   💻 Aspiring <strong>Software Developer</strong> | Python & Full Stack Enthusiast  
 </p>  
@@ -10,7 +11,7 @@
 - 🌱 Currently learning **Python & Full Stack Development (HTML, CSS, JavaScript, React, Node.js, SQL)**
 - 💡 Exploring **backend development, databases, and cloud technologies**
 - ⚡ Fun fact: I love turning ideas into functional code! ✨  
-- 📫 **Reach me at:** [LinkedIn](your-linkedin-url) | [Portfolio](your-portfolio-url)  
+- 📫 **Reach me at:** [LinkedIn](www.linkedin.com/in/vidhyashalini-venkatesh-2a2465190) | [Portfolio](https://github.com/vidhyashalini/portfolio)  
 
 ---
 
